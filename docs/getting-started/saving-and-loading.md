@@ -141,7 +141,7 @@ dotnet run cookbook/GettingStarted/08-model-persistence.cs
 ```
 
 See
-[`cookbook/GettingStarted/08-model-persistence.cs`](../../cookbook/GettingStarted/08-model-persistence.cs).
+[`cookbook/GettingStarted/08-model-persistence.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/08-model-persistence.cs).
 
 ## Common problems
 

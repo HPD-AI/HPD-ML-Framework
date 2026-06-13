@@ -1,0 +1,17 @@
+{
+  "HPD.ML.Abstractions.IDataHandle": "../../../concepts/data-handles-rows-and-cursors.md",
+  "HPD.ML.Abstractions.ILearner": "../../../concepts/learners-models-and-parameters.md",
+  "HPD.ML.Abstractions.IModel": "../../../models/model-contracts.md",
+  "HPD.ML.Abstractions.ITransform": "../../../concepts/transforms-and-composition.md",
+  "HPD.ML.Core.Schema": "../../../concepts/schemas-and-field-types.md",
+  "HPD.ML.Core.InMemoryDataHandle": "../../../data/in-memory-data.md",
+  "HPD.ML.DataSources.CsvDataHandle": "../../../data/csv.md",
+  "HPD.ML.DataSources.JsonDataHandle": "../../../data/json.md",
+  "HPD.ML.BinaryClassification.LogisticRegressionLearner": "../../../training/binary-classification/logistic-regression.md",
+  "HPD.ML.Regression.OrdinaryLeastSquaresLearner": "../../../training/regression/ordinary-least-squares.md",
+  "HPD.ML.Clustering.KMeansLearner": "../../../training/clustering/k-means.md",
+  "HPD.ML.DeepLearning.NeuralNetworkLearner": "../../../training/deep-learning/index.md",
+  "HPD.ML.TimeSeries.SsaForecastingLearner": "../../../training/time-series/ssa-forecasting.md",
+  "HPD.ML.LightGBM.LightGbmLearner": "../../../training/lightgbm/index.md",
+  "HPD.ML.Serialization.Zip.ZipFormat": "../../../models/zip-format.md"
+}

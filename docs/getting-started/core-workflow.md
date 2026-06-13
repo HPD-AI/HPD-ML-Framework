@@ -225,7 +225,7 @@ dotnet run cookbook/GettingStarted/02-core-workflow.cs
 ```
 
 See
-[`cookbook/GettingStarted/02-core-workflow.cs`](../../cookbook/GettingStarted/02-core-workflow.cs).
+[`cookbook/GettingStarted/02-core-workflow.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/02-core-workflow.cs).
 
 ## Common problems
 

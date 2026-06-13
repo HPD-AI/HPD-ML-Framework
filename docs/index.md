@@ -31,14 +31,25 @@
 
 ## Runnable Examples
 
-The [cookbook](../cookbook/README.md) contains numbered, single-file C# apps
+The
+[cookbook](https://github.com/HPD-AI/HPD-ML-Framework/tree/main/cookbook)
+contains numbered, single-file C# apps
 that declare their own NuGet dependencies and run directly with `dotnet run`.
 
 ## Documentation Status
 
-Getting Started, Data, Transforms, and Binary Classification are verified against published
-`HPD-ML-*` version `0.5.0`. Other tracks have landing pages and will gain
-focused guides as their examples are written and tested.
+Getting Started, Core Concepts, Data, Transforms, Binary Classification,
+Regression, Clustering, Evaluation, Models and Persistence, Time Series, and
+[Deep Learning](training/deep-learning/index.md), plus
+[Extending HPD ML](extending/index.md) and
+[Operations](operations/index.md) are verified against published
+`HPD-ML-*` version `0.5.0`.
+
+[LightGBM](training/lightgbm/index.md) is documented as an experimental
+`0.5.0` preview. Its managed package is published, but it does not ship the
+native `lib_lightgbm` runtime required for training. Deep Learning documents
+managed dense networks as the portable baseline and MLX/PJRT as explicit
+runtime-dependent providers.
 
 ## Writing Rules
 

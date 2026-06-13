@@ -39,7 +39,9 @@ The cookbook is organized by machine-learning task:
 Each recipe is intended to run independently and declare its own NuGet
 packages.
 
-See the [Cookbook index](../../cookbook/README.md) for the current recipe
+See the
+[Cookbook index](https://github.com/HPD-AI/HPD-ML-Framework/tree/main/cookbook)
+for the current recipe
 catalog.
 
 ## Work with real data

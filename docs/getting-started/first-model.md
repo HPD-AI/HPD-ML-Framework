@@ -125,7 +125,7 @@ dotnet run cookbook/GettingStarted/10-complete-model.cs
 ```
 
 See
-[`cookbook/GettingStarted/10-complete-model.cs`](../../cookbook/GettingStarted/10-complete-model.cs).
+[`cookbook/GettingStarted/10-complete-model.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/10-complete-model.cs).
 
 ## Common problems
 

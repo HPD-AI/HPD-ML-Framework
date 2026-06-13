@@ -200,7 +200,7 @@ dotnet run cookbook/GettingStarted/03-loading-data.cs
 ```
 
 See
-[`cookbook/GettingStarted/03-loading-data.cs`](../../cookbook/GettingStarted/03-loading-data.cs).
+[`cookbook/GettingStarted/03-loading-data.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/03-loading-data.cs).
 
 ## Common problems
 

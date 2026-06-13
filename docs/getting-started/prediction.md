@@ -197,7 +197,7 @@ dotnet run cookbook/GettingStarted/06-prediction.cs
 ```
 
 See
-[`cookbook/GettingStarted/06-prediction.cs`](../../cookbook/GettingStarted/06-prediction.cs).
+[`cookbook/GettingStarted/06-prediction.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/06-prediction.cs).
 
 ## Common problems
 

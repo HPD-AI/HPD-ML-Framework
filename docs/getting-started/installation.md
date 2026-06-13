@@ -63,7 +63,7 @@ dotnet run app.cs
 ```
 
 The complete runnable check is
-[`cookbook/GettingStarted/01-installation-check.cs`](../../cookbook/GettingStarted/01-installation-check.cs).
+[`cookbook/GettingStarted/01-installation-check.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/01-installation-check.cs).
 
 ## Verify the result
 

@@ -178,7 +178,7 @@ dotnet run cookbook/GettingStarted/07-evaluation.cs
 ```
 
 See
-[`cookbook/GettingStarted/07-evaluation.cs`](../../cookbook/GettingStarted/07-evaluation.cs).
+[`cookbook/GettingStarted/07-evaluation.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/07-evaluation.cs).
 
 ## Common problems
 

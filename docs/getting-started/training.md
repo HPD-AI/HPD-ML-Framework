@@ -251,7 +251,7 @@ dotnet run cookbook/GettingStarted/05-training.cs
 ```
 
 See
-[`cookbook/GettingStarted/05-training.cs`](../../cookbook/GettingStarted/05-training.cs).
+[`cookbook/GettingStarted/05-training.cs`](https://github.com/HPD-AI/HPD-ML-Framework/blob/main/cookbook/GettingStarted/05-training.cs).
 
 ## Common problems
 
